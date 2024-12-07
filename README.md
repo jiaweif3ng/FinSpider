@@ -1,24 +1,26 @@
 # FinSpider
+FinSpider 是基于 selenium 库的数据爬虫，可以帮助用户快速获取**股吧**和**韭研公社**的数据。
 
+## 安装
 
-## Installation
-
-You can create a conda environment by running the command below.
+你可以通过运行以下命令创建 conda 环境：
 
 ```
 conda env create -f environment.yml
 ```
 
-## Quick start
+## 快速开始
 
 ```
 Python fin_spider.py
 ```
 
-## Others
+## 其他
 
-You can get firefox-115.10.0esr.tar.bz2 from [this](https://ftp.mozilla.org/pub/firefox/releases/115.10.0esr/linux-x86_64/en-US/).
+你可以从[这里](https://ftp.mozilla.org/pub/firefox/releases/115.10.0esr/linux-x86_64/en-US/)获取 firefox-115.10.0esr.tar.bz2。
 
-You can get geckodriver-v0.34.0-linux64.tar.gz from [this](https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz).
+你可以从[这里](https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz)获取 geckodriver-v0.34.0-linux64.tar.gz。
 
-reference: [Popantelope/guba_spider](https://github.com/Popantelope/guba_spider)
+本项目参考了以下的仓库：
+
+[Popantelope/guba_spider](https://github.com/Popantelope/guba_spider)
