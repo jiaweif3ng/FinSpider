@@ -1,5 +1,5 @@
 # FinSpider
-FinSpider 是基于 selenium 库的数据爬虫，可以帮助用户快速获取**股吧**和**韭研公社**的数据。
+FinSpider 是基于 selenium 库的数据爬虫，可以帮助用户快速获取[*股吧*](https://guba.eastmoney.com/)和[*韭研公社*](https://www.jiuyangongshe.com/)的数据。
 
 ## 安装
 
@@ -10,6 +10,8 @@ conda env create -f environment.yml
 ```
 
 ## 快速开始
+
+你可以通过运行以下命令来获得指定股票代码（或名称）的相关数据:
 
 ```
 Python fin_spider.py
