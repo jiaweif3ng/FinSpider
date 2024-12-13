@@ -1,5 +1,5 @@
 # FinSpider
-FinSpider 是基于 selenium 库的数据爬虫，可以帮助用户快速获取[*股吧*](https://guba.eastmoney.com/)和[*韭研公社*](https://www.jiuyangongshe.com/)的数据。
+FinSpider 是基于 selenium 库的数据爬虫，可以帮助用户快速获取 [*股吧*](https://guba.eastmoney.com/) 和 [*韭研公社*](https://www.jiuyangongshe.com/) 的数据。
 
 ## 安装
 
